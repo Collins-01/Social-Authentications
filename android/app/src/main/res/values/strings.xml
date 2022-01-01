@@ -1,0 +1,15 @@
+<!-- <string name="facebook_app_id">301445201929998</string>
+<string name="fb_login_protocol_scheme">fb301445201929998</string> -->
+<!-- <?xml version="1.0"  encoding="utf-8"?> -->
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Social Auth </String>
+    <string name="facebook_app_id">301445201929998</String>
+    <string name="fb_login_protocol_scheme"> fb301445201929998</String>
+</resources>  -->
+<!-- <version="1.0" encoding="utf-8"?> -->
+<resources>
+    <string name="app_name">Social Auth</string>
+    <string name="facebook_app_id">301445201929998</string>
+    <string name="fb_login_protocol_scheme">fb301445201929998</string>
+</resources>
